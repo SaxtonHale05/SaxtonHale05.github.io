@@ -1,0 +1,42 @@
+body {
+
+color: coral;
+background-image: url(https://www.pngitem.com/pimgs/m/448-4486162_tf2-medic-laugh-taunt-hd-png-download.png);
+font-family: 'Courier New', Courier, monospace;
+font-size: large;
+border: yellow;
+padding: 5px;
+}
+
+.linkki {
+    font-size: larger;
+    color: crimson;
+    background-color: darkgray;
+    float: left;
+    text-align: left;
+    font-family: sans-serif;
+}
+
+.otsikko {
+    background-color:  rgba(0,0,0,0.5);
+}
+
+    .kuva {
+        float: left;
+        width: 17%;
+        padding: 7px;
+        border: firebrick;
+        background-color:  rgba(0,0,0,0.5);
+        font-size: large;
+    }
+
+    .nimi {
+        text-align: center;
+        color: maroon;
+        position: absolute;
+        bottom: 0;
+        float: inline-end;
+        
+       
+       
+       }
