@@ -1,0 +1,55 @@
+header { background-color: rgba(196, 194, 194, 0.425);}
+
+body{ background-image: url(https://i.pinimg.com/originals/b2/ab/5a/b2ab5a4a6a57004f29a093f2893e13b0.png);}
+
+h1, h4, h5 { color: darkred; background-color: rgba(175, 238, 238, 0.281);}
+p  {display: table; background-color: rgba(175, 238, 238, 0.281);}
+nav {
+    border-radius: 5px;
+    border-style: groove;
+    border-color: rgb(0, 0, 0);
+}
+
+li {
+    list-style: none;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.juusto {
+    border-radius: 5px;
+    border-style: groove;
+    border-color: rgb(0, 0, 0);
+}
+
+ div {
+    display: table;  background-color: rgba(68, 80, 80, 0.281);
+  }
+
+h2 {
+    background-color: rgba(105, 101, 101, 0.658);
+    display: table;
+}
+
+h3 {
+    background-color: rgba(48, 44, 36, 0.589);
+    color: rgb(170, 4, 4);
+    display: table;
+}
+
+ul {list-style-type: none; }
+
+.fumo {
+
+    background-image: url(https://st2.depositphotos.com/1764439/9903/i/600/depositphotos_99034650-stock-photo-antique-yellowish-parchment-paper-grungy.jpg);
+    display: table;
+    padding-left: 70px;
+    padding-right: 70px;
+    border-width: thick;
+    border: rgb(241, 228, 111);
+    border-radius: 8px;
+    border-style: solid;
+    margin: 0 auto;
+    display: inline-block;
+    text-align: center;
+}

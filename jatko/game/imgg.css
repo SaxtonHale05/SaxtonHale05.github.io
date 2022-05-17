@@ -1,0 +1,25 @@
+.fumo {
+ 
+    background-image: url(https://wallpapercave.com/wp/wp2170376.jpg);
+    display: table;
+    padding-left: 70px;
+    padding-right: 70px;
+    border-width: thick;
+    border: rgb(241, 228, 111);
+    border-radius: 8px;
+    border-style: solid;
+    margin: 0 auto;
+    display: inline-block;
+    text-align: center;
+    font-style: bold;
+    color: floralwhite;
+    font-family: 'Cinzel Decorative', cursive;
+}
+
+body {
+    background-image: url(https://img.wallpapersafari.com/desktop/1600/900/36/8/RpAN3l.jpg);
+}
+
+h2 {
+    color: rgb(255, 14, 14);
+}

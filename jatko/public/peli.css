@@ -1,0 +1,106 @@
+
+
+body{ background-image: url(https://images5.alphacoders.com/609/thumb-1920-609173.jpg); 
+ background-attachment: fixed;
+
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@900&display=swap');
+
+
+h1,h2, h3, h4, h5 { font-family: 'Cinzel Decorative' ; color: darkred; }
+
+.navi {
+    text-align: left;
+    list-style: none;
+    display: table;
+    background-color: rgba(119, 136, 153, 0.63);
+    border-width: thick;
+    border: whitesmoke;
+    border-radius: 8px;
+    border-style: solid;
+}
+
+.kuva {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+   
+}
+.isot{
+    border-width: thick;
+    border: rgb(121, 6, 6);
+    border-radius: 8px;
+    border-style: solid;
+    background-color: rgba(119, 136, 153, 0.63);
+}
+
+.formit {
+    border-width: thick;
+    border: rgb(121, 6, 6);
+    border-radius: 8px;
+    border-style: solid;
+    background-color: rgba(119, 136, 153, 0.63);
+}
+
+.button1 {
+    background-color: rgb(187, 43, 18);
+    border-radius: 5px;
+}
+
+.lista{
+    background-image: url(https://st2.depositphotos.com/1764439/9903/i/600/depositphotos_99034650-stock-photo-antique-yellowish-parchment-paper-grungy.jpg);
+    display: table;
+    padding-left: 70px;
+    padding-right: 70px;
+    border-width: thick;
+    border: rgb(241, 228, 111);
+    border-radius: 8px;
+    border-style: solid;
+    margin: 0 auto;
+    display: inline-block;
+    text-align: center;
+ 
+}
+.listanI {
+    color: black;
+}
+
+.lab {
+  color: rgb(97, 23, 23);
+  background-color: rgba(119, 136, 153, 0.63);
+  border-radius: 8px;
+    border-style: solid;
+}
+
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-image: url(https://as2.ftcdn.net/v2/jpg/01/31/65/15/1000_F_131651578_9oM6M8OCkl7MVO1CZmCFEXjPCCDRUZyT.jpg);
+    padding: 10px;
+    column-gap: 20px;
+    row-gap: 10px;
+    background-attachment: fixed;
+  }
+  .grid-item {
+    background-color: rgba(41, 17, 17, 0.884);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 10px;
+    font-size: 20px;
+    text-align: left;
+    border-radius: 4px;
+  }
+
+  .kuuva {
+      float: left;
+      width: 100%;
+      width: 100%;
+  }
+
+  .box {
+    max-width: 100%;
+    height: auto;
+  }
