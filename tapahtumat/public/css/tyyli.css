@@ -1,0 +1,91 @@
+* {font-family: 'Barlow Semi Condensed';}
+
+title { size:56px; font-weight: bold;}
+
+h1 { size: 32px; font-weight: bold;}
+h2 { size: 24px; font-weight: bold;}
+h3 { size: 18px; font-weight: bold;}
+p { size: 12px; line-height: 1.6; }
+
+button {
+    color: #0B9DF9;
+    border-radius: 8px;
+}
+
+.lista {
+    border: 1px solid black;
+    border-radius: 8px;
+    display: inline-block;
+    background-color: #E1A50A;
+    color:#05446B;
+    border-color: #05446B;
+    padding: 5px;
+}
+
+.typpi {
+    border: 1px solid black;
+    border-radius: 8px;
+    display: table;
+    background-color:  #0B9DF9;
+    color:#05446B;
+    border-color: #05446B;
+    padding: 5px;
+}
+
+
+.inputarea {
+    border: 1px solid #05446B;
+    border-radius: 20px;
+    padding: 5px;
+    background-color:  #F2EFE8;
+    color:#05446B;
+    position: fixed;
+    
+}
+
+.buddon:hover {
+ background-color:  #E1A50A;
+}
+
+.buddon {
+    background-color:  #0B9DF9;
+    color: #05446B;
+    border-radius: 8px;
+}
+
+a {
+    color: #05446B;
+}
+
+
+.navbar {
+    border: 1px solid #05446B;
+    border-radius: 20px;
+    background-color:  #F2EFE8;
+    color:#05446B;
+    margin: 5px;
+    font-size: x-large;
+}
+
+
+.kloro {
+    background-color:  #F2EFE8;
+    margin: 20px;
+    padding: 20px;
+    border-style: ridge;
+    border-color: #F2EFE8;;
+}
+
+.selektio {
+    background-color:  #F2EFE8;
+    margin: 20px;
+    padding: 20px;
+    border-style: ridge;
+    border-color: #F2EFE8;;
+    display: table;
+}
+
+body {
+    background-image: url(https://t4.ftcdn.net/jpg/01/38/74/57/360_F_138745762_mla55mCqtwSlCaoyJE9aZDpByEQbFHAr.jpg);
+}
+
