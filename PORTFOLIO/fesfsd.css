@@ -1,0 +1,61 @@
+body {
+
+color: coral;
+background-image: url(https://static.vecteezy.com/system/resources/thumbnails/002/073/027/small/abstract-colorful-shapes-background-free-vector.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+font-family: 'Courier New', Courier, monospace;
+font-size: large;
+border: yellow;
+padding: 5px;
+}
+
+.linkki {
+    font-size: larger;
+    color: crimson;
+    background-color: darkgray;
+    float: left;
+    text-align: left;
+    font-family: sans-serif;
+}
+
+.otsikko {
+    background-color:  rgba(0,0,0,0.5);
+}
+
+    .kuva {
+        float: left;
+        width: 17%;
+        padding: 7px;
+        border: firebrick;
+        background-color:  rgba(0,0,0,0.5);
+        font-size: large;
+    }
+
+    .nimi {
+        text-align: center;
+        color: maroon;
+        position: absolute;
+        bottom: 0;
+        float: inline-end;
+       }
+
+
+       aside {
+           float: left;
+           padding: 5px;
+           margin: 2px;
+           text-align: left;
+           width: 8cm;
+           background-color: rgba(0,0,0,0.5);
+        }
+
+
+        .oma {
+            float: left;
+            width: 55%;
+            padding: 7px;
+            border: firebrick;
+            background-color:  rgba(0,0,0,0.5);
+            font-size: large;
+        }
