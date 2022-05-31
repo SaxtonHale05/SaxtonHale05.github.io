@@ -1,0 +1,131 @@
+.a {
+   text-align: center;
+   background-color: aquamarine;
+   color: blue;
+   font-size: x-large;
+}
+
+p {
+ float: left;
+ background-color: aquamarine;
+ color: blue;
+}
+
+.Kissa {
+    text-align: center;
+  background-color: cadetblue;
+  color: blue;
+  background-repeat: repeat;
+}
+
+.koira {
+
+    background-color: darkcyan;
+    color: darkblue;
+    border-width: 3px;
+    border-style: groove;
+    border: hotpink;
+    border-width: 3px;
+    outline-style: double;
+    outline-color: indigo;
+}
+ * {
+ font-family: 'Times New Roman', Times, serif;
+ font-size: larger;
+ background-color: cadetblue;
+ background-repeat: repeat;
+ 
+ }
+
+ .image {
+     border: maroon;
+     border-width: 5px;
+     border-style: groove;
+     outline-width: 5px;
+     outline-width: 5px;
+ } 
+
+ .loppu {
+    background-color: mediumpurple;
+    color: moccasin;
+    border: navy;
+    border-width: 2px;
+    float: left;
+    text-align: left;
+ }
+ 
+ .laulu {
+
+ font-size: larger;
+ color: darkblue;
+ margin-top: 1cm;
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ border: 2px;
+ border-color: gold;
+
+}
+
+.et {
+    text-align: center;
+    background-color: cadetblue;
+    color: blue;
+    background-repeat: repeat;
+}
+
+.lintu {
+    text-align: center;
+    background-color: cadetblue;
+    color: blue;
+    background-repeat: repeat;
+}
+
+.kuva {
+  float: left;
+  width: 17%;
+  padding: 7px;
+  border: firebrick;
+  background-color: forestgreen;
+  font-size: large;
+}
+
+.taulu {
+float: inline-start;
+text-align: center;
+width: 17%;
+padding: 7px;
+background-color: forestgreen;
+font-size: large;
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+outline-width: 2cm;
+outline-color: lightgreen;
+color: maroon;
+
+}
+
+
+
+
+
+.lista {
+    justify-self: normal;
+    float: left;
+    color: indigo;
+    border-width: 2px;
+}
+
+.uu {
+
+text-align: justify;
+background-color: cadetblue;
+  color: blue;
+  background-repeat: repeat;
+
+}
+
+.nimi {
+ text-align: center;
+ color: maroon;
+ 
+
+
+}
